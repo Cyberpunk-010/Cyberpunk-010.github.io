@@ -1,4 +1,4 @@
----
+<!-- ---
 title:  "Finally I started my own blog! 🎉"
 excerpt: "My first blog. 🤗"
 toc: true
@@ -14,7 +14,7 @@ last_modified_at: 2021-10-23T12:53:00-05:00
 # 🥳 Starting my blog
 
 April 13, **my birthday**, is now also **the birthday of my own blog**.   
-I thought a lot about what I should write on the first posting of the blog that I've worked hard on, and I finally decided to post about **my plans and thoughts** at the start of this blog.
+I thought a lot about what I should write on the first posting of the blog that I've worked hard on, and I finally decided to post about **my plans and thoughts** at the start of this blog. -->
 
 <!-- ## ✨ Why I started blogging
 
