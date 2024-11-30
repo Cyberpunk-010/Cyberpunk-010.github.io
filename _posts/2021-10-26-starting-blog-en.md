@@ -13,10 +13,10 @@ last_modified_at: 2021-10-23T12:53:00-05:00
 
 # 🥳 Starting my blog
 
-October 13, **my birthday**, is now also **the birthday of my own blog**.   
+April 13, **my birthday**, is now also **the birthday of my own blog**.   
 I thought a lot about what I should write on the first posting of the blog that I've worked hard on, and I finally decided to post about **my plans and thoughts** at the start of this blog.
 
-## ✨ Why I started blogging
+<!-- ## ✨ Why I started blogging
 
 I decided to start the blog for three main reasons:
 
@@ -63,4 +63,4 @@ I decided to start the blog for three main reasons:
 &nbsp;Writing a blog in English would help more people in world, and **improve my English skills**, so there was no reason for me to run my blog only in Korean.
 
 ## 🎉 What's next?
-&nbsp;Thinking about writing on the blog in the future is already full of excitement! I'm going to organize what I learned, and upload the projects I participated in on this blog. 🤗
+&nbsp;Thinking about writing on the blog in the future is already full of excitement! I'm going to organize what I learned, and upload the projects I participated in on this blog. 🤗 -->
