@@ -15,48 +15,48 @@
 minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # deployment
-host: 0.0.0.0
+host: 127.0.0.1
 port: 4000
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cw00h's blog"
+title                    : "Personal blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Woo hyuk Choi"
+name                     : "Abhishek Chaudhary"
 description              : "An amazing website."
 url                      : https://Cyberpunk-010.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Cyberpunk-010/Cyberpunk-010.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/rocket.png"
-masthead_title           : "cw00h's blog"
+logo                     : "/images/rocket.png"
+masthead_title           : "Personal blog"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
-  disqus:
-    shortname            : "Abhishek Personal Blog"
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+  #  provider               : "disqus"
+  #  disqus
+  #    shortname            : "Abhishek Personal Blog"
+  #  discourse:
+  #   server               :  https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  #  facebook:
+  #    https://developers.facebook.com/docs/plugins/comments
+  #   appid                :
+  #   num_posts            :  5 (default)
+  #   colorscheme          :  "light" (default), "dark"
+  # utterances:
+  #   theme                :  "github-light" (default), "github-dark"
+  #   issue_term           :  "pathname" (default)
+  # giscus:
+  #   repo_id              :  Shown during giscus setup at https://giscus.app
+  #   category_name        :  Full text name of the category
+  #   category_id          :  Shown during giscus setup at https://giscus.app
+  #   discussion_term      :  "pathname" (default), "url", "title", "og:title"
+  #   reactions_enabled    :  '1' for enabled (default), '0' for disabled
+  #   theme                :  "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  # staticman:
+  #   branch               :  "master"
+  #   endpoint             :  "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -97,36 +97,36 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-S51M2YRF8Z"
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Woo hyuk Choi"
-  avatar           : "/assets/images/profile_circle.png"
+  name             : "Abhishek Chaudhary"
+  avatar           : "/images/profile.jpg"
   bio              : "Learning everyday ✍"
-  location         : "Seoul, Republic of Korea"
-  email            : "cwooh8@gmail.com"
+  location         : "Ghaziabad, India"
+  email            : "abhisheknehra9000@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cw00h"
+      url: "https://github.com/Cyberpunk-010"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cw00h"
+      url: "https://instagram.com/abhisheknehra___"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cw00h"
+      url: "https://github.com/Cyberpunk-010"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cw00h"
+      url: "https://instagram.com/abhisheknehra___"
 
 # Reading Files
 include:
@@ -196,7 +196,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Seoul
+timezone: Asia/Kolkata 
 
 # Plugins (previously gems:)
 plugins:
